@@ -1,3 +1,3 @@
-# Hi, I'm Rodrigo Dutra Ferreira 👋
+# Hi, I'm Rodrigo Dutra 👋
  
-**Software Engineering student at UnB (Universidade de Brasília)** 
+🧑‍💻**Software Engineering student at UnB (Universidade de Brasília)** 
